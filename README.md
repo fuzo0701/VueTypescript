@@ -7,7 +7,7 @@ Vue &amp; Typescript
 
 ## Beutify Setting
 
-- vue add vuetify
+- tag1 - vue add vuetify
   main.ts 에서 vuetify 오류 발생
   tsconfig.json 에서
   "types": [
